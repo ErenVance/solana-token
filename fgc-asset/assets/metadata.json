@@ -2,7 +2,7 @@
   "name": "Fire Game Coin",
   "symbol": "FGC",
   "description": "Fire Game Coin",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+  "image": "https://raw.githubusercontent.com/ErenVance/solana-token/main/fgc-asset/assets/image.png",
   "attributes": [
     {
       "trait_type": "Total Supply",
